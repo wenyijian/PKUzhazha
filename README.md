@@ -18,5 +18,3 @@
         <a href="https://www.bilibili.com/video/BV18W41167g4/?spm_id_from=333.788.recommend_more_video.0">中毒视频链接</a>
         <p>这不是个好视频</p>
         <a href="https://www.bilibili.com/video/BV17x411w7KC">解毒视频链接</a>
-    </body>
-</html>
